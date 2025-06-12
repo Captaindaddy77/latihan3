@@ -1,7 +1,7 @@
 package latihan3;
 public class Rumus {
-// Nama: [Nama Lengkap]
-// NPM : [Nomor Pokok Mahasiswa]
-// Kelas: [Nama Kelas]
+// Nama: [Muhammad Nabil Zaky]
+// NPM : [2310010511]
+// Kelas: [4C REG BJM]
 
 }
