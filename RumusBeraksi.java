@@ -15,4 +15,3 @@ public class RumusBeraksi {
         System.out.println("Luas Persegi Panjang: " + r.getHasil());
     }
 }
-}
